@@ -4,5 +4,5 @@
 // }
 
 let friends = ['rejin', "bipin", 'sumi',12,true,]
-console.log(friends[2]);
+console.log(friends[1])
 
